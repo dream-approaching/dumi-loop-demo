@@ -1,0 +1,1 @@
+export { default as Com } from './components/cpm';
