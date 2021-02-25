@@ -9,6 +9,7 @@
     "cross-env": "^7.0.3",
     "dumi": "^1.1.4",
     "dumi-lib": "^2.0.7",
+    "moment": "^2.29.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"

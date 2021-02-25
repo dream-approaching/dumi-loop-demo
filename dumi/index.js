@@ -1,1 +1,1 @@
-export { default as Com } from './components/cpm';
+export { default as Com } from './components/com';
